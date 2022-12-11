@@ -7,7 +7,7 @@ let keys = {
 let guesses = [];
 let currentGuess = [];
 
-const SecretWord = 'album'
+const SecretWord = 'clips'
 const NumberOfGuesses = 6;
 const Correct = 'correct';
 const Found = 'found';
