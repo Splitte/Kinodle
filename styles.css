@@ -1,19 +1,19 @@
 .container .correct {
   background-color: #6aaa64;
   border-color: #6aaa64;
-  color: white;
+  color: black;
 }
 
 .container .found {
   background-color: #c9b458;
   border-color: #c9b458;
-  color: white;
+  color: black;
 }
 
 .container .wrong {
   background-color: #787c7e;
   border-color: #787c7e;
-  color: white;
+  color: black;
 }
 
 .container {
@@ -33,7 +33,7 @@
   justify-content: center;
   align-items: center;
   text-transform: uppercase;
-  border: 2px solid #d3d6da;
+  border: 2px solid #000000;
   height: 50px;
   width: 50px;
   vertical-align: baseline;
@@ -55,7 +55,7 @@
   font-weight: bold;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #d3d6da;
+  background-color: #000000;
   border: 0;
   height: 50px;
   width: 43px;
